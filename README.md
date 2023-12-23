@@ -1,3 +1,7 @@
+So, this is my intent to re create the spotify Look and feel, once I got this mock up I'll keep designing the backend side (ElectricSheep repo)
+SRG.
+
+
 # Astro Starter Kit: Basics
 
 ```sh
